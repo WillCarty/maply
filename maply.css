@@ -1,0 +1,34 @@
+.allCards {
+    border: 2px solid black;
+    border-radius: 4px;
+    background-repeat:no-repeat;
+    height:450px; 
+    background-size: 100% 100%;
+    opacity: 0.8; filter: alpha(opacity=50);
+    margin:2px;
+     text-align:center;
+    color: white;
+    font-family: 'Berkshire Swash', cursive;
+     text-shadow: 2px 2px 2px black;
+}
+.textType{
+    color:sandybrown !important;
+    font-family: 'Berkshire Swash', cursive;
+    text-shadow: 2px 2px 2px white;
+    text-align:center;
+    background-color:rgba(0,0,0,0.6) !important
+    
+}
+
+body{
+
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e2/OrteliusWorldMap1570.jpg);
+    background-repeat:repeat;
+    background-size:100% 100%;
+
+}
+.background{
+background-image:url(http://www.freelargeimages.com/wp-content/uploads/2014/12/World_map_png-6.png);
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
